@@ -1,5 +1,5 @@
 <h1 align="center">Hi there , I'm Guruprasad</h1>
-<h3 align="center"> Aspiring AI/ML Engineer |  Computer Science Student |  Tech Explorer</h3>
+<h3 align="center"> AI/ML Engineer |  Computer Science Student |  Tech Explorer</h3>
 
 ---
 
