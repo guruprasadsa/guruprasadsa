@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Guruprasad</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | 🎓 Computer Science Student | 💡 Tech Explorer</h3>
+<h1 align="center">Hi there , I'm Guruprasad</h1>
+<h3 align="center"> Aspiring AI/ML Engineer |  Computer Science Student |  Tech Explorer</h3>
 
 ---
 
-### 🧠 About Me
-- 🎯 I’m passionate about building intelligent systems that solve real-world problems.
-- 🔍 Currently exploring **Deep Learning**, **Natural Language Processing**, and **Data Analysis**.
-- 🛠️ Learning how to deploy scalable **Machine Learning** models in production.
-- 🌱 Constantly learning and pushing the boundaries of AI innovation.
+### About Me
+- I’m passionate about building intelligent systems that solve real-world problems.
+- Currently exploring **Deep Learning**, **Natural Language Processing**, and **Data Analysis**.
+- Learning how to deploy scalable **Machine Learning** models in production.
+- Constantly learning and pushing the boundaries of AI innovation.
 
 ---
 
