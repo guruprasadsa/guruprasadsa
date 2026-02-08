@@ -1,5 +1,5 @@
 <h1 align="center">Hi there , I'm Guruprasad</h1>
-<h3 align="center"> AI/ML Student |  Tech Explorer</h3>
+<h3 align="center"> AI & ML Student |  Tech Explorer</h3>
 
 ---
 
@@ -22,16 +22,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruprasadsa&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub Stats" />
-  
-</div>
 
----
 
-### 🗓️ GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guruprasadsa&theme=dracula&hide_border=true" alt="GitHub Contribution Graph" />
+[![](https://github-readme-stats.vercel.app/api?username=guruprasadsa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/guruprasadsa)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=guruprasadsa&theme=material-palenight)](https://github.com/guruprasadsa)
 </div>
 
 ---
