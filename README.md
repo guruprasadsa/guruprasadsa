@@ -12,12 +12,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-
-
-[![](https://github-readme-stats.vercel.app/api?username=guruprasadsa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/guruprasadsa)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=guruprasadsa&theme=material-palenight)](https://github.com/guruprasadsa)
-</div>
+<img src="https://algora.io/og/user/guruprasadsa" />
 
 ---
 
