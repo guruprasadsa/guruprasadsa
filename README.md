@@ -70,7 +70,7 @@ I build things at the intersection of deep learning, NLP, and cloud infrastructu
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Adaptive IDS using RL**](https://github.com/guruprasadsa/Adaptive-IDS-using-RL) | Intrusion detection system using A3C reinforcement learning — 98.5% classification accuracy | Python, PyTorch, OpenAI Gym |
+| [**Adaptive IDS using RL**](https://github.com/guruprasadsa/Adaptive-IDS-using-RL) | Intrusion detection system using A3C reinforcement learning — 98.5% classification accuracy | Python, PyTorch |
 | [**Smart Reading Assistant**](https://github.com/guruprasadsa/Smart-Reading-Assistant) | RAG-based reading tool that summarizes, answers questions, and generates quizzes from any document | Python, Transformers, spaCy, FAISS |
 | [**Lung Cancer Detection CNN**](https://github.com/guruprasadsa/lung-cancer-detection-cnn) | CNN model with Flask API and React frontend for CT scan classification | PyTorch, Flask, React |
 | [**IDEASpark**](https://github.com/guruprasadsa/IDEASpark) | AI-powered idea generation and brainstorming tool | TypeScript |
