@@ -14,7 +14,7 @@
 
 ## About Me
 
-B.E. graduate in **Artificial Intelligence and Machine Learning** from East West Institute of Technology, Bengaluru (CGPA: **8.6 / 10**, May 2026). Recently completed a **Generative AI internship at Mindmatrix**, where I built a full-stack Android application and developed AI-powered document automation pipelines.
+B.E. graduate in **Artificial Intelligence and Machine Learning** from East West Institute of Technology, Bengaluru (CGPA: **8.6 / 10**, May 2026). Recently completed a **Android App Development using Generative AI internship at Mindmatrix**, where I built a full-stack Android application and developed AI-powered document automation pipelines.
 
 I build things at the intersection of deep learning, NLP, and cloud infrastructure. Currently looking for entry-level **AI/ML Engineer** roles and related positions in Bengaluru.
 
